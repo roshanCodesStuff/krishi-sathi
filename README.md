@@ -7,7 +7,7 @@
 
 ## 📱 Download APK
 
-[![Download APK](https://img.shields.io/badge/Download-APK%20v1.0.0-green?style=for-the-badge&logo=android)](https://github.com/roshanCodesStuff/krishi-sathi/releases/download/v1.0.0/app-release.apk)
+[![Download APK](https://img.shields.io/badge/Download-APK%20v1.0.1-green?style=for-the-badge&logo=android)](https://github.com/roshanCodesStuff/krishi-sathi/releases/download/v1.0.1/app-release.apk)
 
 
 ## 🎯 Purpose
