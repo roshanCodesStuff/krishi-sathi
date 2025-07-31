@@ -32,6 +32,8 @@ android {
 
     buildTypes {
         release {
+            // Corrected line: Use setArchivesBaseName() function.
+            base.archivesName = "KrishiSathi_Release_v${defaultConfig.versionName}_${defaultConfig.versionCode}"
             // TODO: Add your own signing config for the release build.
             // Signing with the debug keys for now, so `flutter run --release` works.
             signingConfig = signingConfigs.getByName("debug")
