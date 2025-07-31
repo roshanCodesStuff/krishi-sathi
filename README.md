@@ -1,7 +1,7 @@
 # कृषि साथी (Krishi-Sathi) - Flutter WebView App
 
 <div align="center">
-  <img src="assets/icon/app_icon.png.png" alt="Krishi-Sathi App Icon" width="200">
+  <img src="assets/icon/app_icon.png" alt="Krishi-Sathi App Icon" width="200">
   <h3>🌾 A WebView Application for AgroConnect Ecosystem</h3>
 </div>
 
